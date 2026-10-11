@@ -1,0 +1,28 @@
+# V2 supports Python 3.11. Use SQLite by default; psycopg2 enables PostgreSQL.
+Werkzeug==2.2.3
+SQLAlchemy==2.0.29
+Flask==2.2.5
+Flask-SQLAlchemy==3.0.5
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+
+# Runtime tools
+gunicorn==22.0.0
+honcho==1.1.0
+
+# Code quality
+pylint==3.2.7
+flake8==7.1.1
+black==24.8.0
+
+# Unit testing
+pytest==8.3.5
+pytest-cov==6.0.0
+coverage==7.6.1
+factory-boy==3.3.1
+Faker==33.3.1
+
+# Behavior Driven Development
+behave==1.2.6
+selenium==4.27.1
+requests==2.32.3
