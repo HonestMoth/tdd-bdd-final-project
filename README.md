@@ -1,4 +1,4 @@
-# TDD / BDD Final Project — Product Catalog (V2)
+# TDD / BDD Final Project — Product Catalog
 
 A Flask-based REST API and browser UI for managing a product catalog. The application supports creating, retrieving, updating, deleting, and filtering products using SQLAlchemy and SQLite by default, with optional PostgreSQL support.
 
