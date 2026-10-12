@@ -68,7 +68,6 @@ tdd-bdd-final-project/
 ├── requirements.txt     # Python dependencies
 ├── run.py               # Application entry point
 ├── setup.cfg            # Tool configuration
-└── V2_CHANGES.md        # Version 2 change log
 ```
 
 ## Requirements
